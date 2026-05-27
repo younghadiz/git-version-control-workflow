@@ -22,7 +22,7 @@ The project focuses on:
 
 # Architecture Diagram
 
-![Git Workflow Architecture](docs/arch-diagram/git-workflow-architecture.png)
+![Git Workflow Architecture](docs/arch-diagram/git-arch-diagram.png)
 
 ---
 

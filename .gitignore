@@ -1,0 +1,16 @@
+# IntelliJ / JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Java build outputs
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
